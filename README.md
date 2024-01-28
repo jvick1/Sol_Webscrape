@@ -1,5 +1,7 @@
 # Solana Transaction Signer Scraper
 
+Let's say you have some txHash that you need to look over and get the signer for each. How would you do that? 
+
 ## Description:
 
 This Python script utilizes Selenium and BeautifulSoup to scrape signer information from Solana transactions on SolScan. It takes a batch of transaction IDs from a CSV file, filters out specific transactions, and then extracts the signer information by navigating to the SolScan website for each transaction ID. The results are stored in a Pandas DataFrame and exported to a CSV file.
