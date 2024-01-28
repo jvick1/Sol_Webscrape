@@ -1,6 +1,6 @@
 # Solana Transaction Signer Scraper
 
-Let's say you have some txHash that you need to look over and get the signer for each. How would you do that? 
+Let's say you have some txHash that you need to look over and get the signer for each. How would you do that? This is a real bare-bones example but as you start reviewing the code I think you will see tons of use cases for this headless browser. For example, you could pull way more than just the singer here.
 
 ## Description:
 
